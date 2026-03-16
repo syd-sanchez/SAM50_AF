@@ -1,0 +1,2 @@
+# SAM50_AF
+SAM50_MIC60_human
